@@ -264,7 +264,7 @@ nav #menu li a:hover {
       height: 13px;
       border-bottom: 2px solid #fff;
       border-right: 2px solid #fff;
-      -webkit-transform: translate(-50%, 0) rotate(45deg);
+      webkit-transform: translate(-50%, 0) rotate(45deg);
       animation: fade_move_down 3s cubic-bezier(0.19, 1, 0.22, 1) infinite;
 }
 
@@ -306,7 +306,7 @@ h6 {
 
 
 .project11::after {
-      content: "Women's Safety Watch";
+      content: "Women's Safety Watch";WOMEN SAFETY
       font-family: "Roboto Mono";
       font-size: 48px;
       position: relative;
@@ -372,8 +372,8 @@ h6 {
       background: url(http://pop.markv.in/wp-content/uploads/2018/11/commutatus-logo-1.png) no-repeat 50% 50%;
       background-size: cover;
 }
-
-.project14::after {
+/*Why Commutatus text removed
+/* .project14::after {
       content: "Why Commutatus?";
       font-family: "Roboto Mono";
       font-size: 48px;
@@ -384,7 +384,7 @@ h6 {
       left: 60%;
       right: 0;
       bottom: 0;
-}
+} */
 .project24 {
       background: url(https://serving.photos.photobox.com/42495187c742c4dabb6b69d8242a02fb07732819fe1cdd0b9a328bd15ff2dbb5164fb6ab.jpg) no-repeat 50% 50%;
       background-size: cover;
